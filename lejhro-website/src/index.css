@@ -1,0 +1,6 @@
+/* Custom styles for button hover effect */
+.btn-hover:hover {
+  background-color: white;
+  border-color: black;
+  color: black;
+}
